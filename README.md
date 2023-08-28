@@ -12,7 +12,7 @@ The foundation of this analysis is the 2016 Dallas police data, meticulously cur
 
 ### Data Pre-processing
 
-The raw dataset has undergone a meticulous pre-processing regimen, encompassing meticulous operations such as standardized datetime formatting, feature engineering, and judicious data consolidation. Comprehensive details of the data preparation workflow, accompanied by illustrative code snippets, can be perused in the associated analytical publication accessible on [RPubs](https://rpubs.com/vodunlade/1075289).
+The raw dataset has undergone a meticulous pre-processing regimen, encompassing meticulous operations such as standardized datetime formatting, feature engineering, and judicious data consolidation. Comprehensive details of the data preparation workflow, accompanied by illustrative code snippets, can be perused in the associated analytical publication accessible on [RPubs](https://rpubs.com/vodunlade/1075296).
 
 ## Officer Analysis
 
@@ -84,6 +84,6 @@ The geographical distribution of incidents is effectively brought to life throug
 
 ## Conclusion
 
-In summation, this analysis extracts nuanced insights from the 2016 Dallas police data. Officer demographics, subject characteristics, incident attributes, and intricate associations have been meticulously unearthed, providing a robust bedrock for informed decision-making. For a profound exploration of data preprocessing and exploratory stages, replete with illustrative code exemplars, kindly refer to the comprehensive analysis publication linked here: [Comprehensive Analysis](https://rpubs.com/vodunlade/1075289).
+In summation, this analysis extracts nuanced insights from the 2016 Dallas police data. Officer demographics, subject characteristics, incident attributes, and intricate associations have been meticulously unearthed, providing a robust bedrock for informed decision-making. For a profound exploration of data preprocessing and exploratory stages, replete with illustrative code exemplars, kindly refer to the comprehensive analysis publication linked here: [Comprehensive Analysis](https://rpubs.com/vodunlade/1075296).
 
 Your inquiries and feedback are earnestly welcomed as we collectively endeavour to elevate the depth and breadth of the derived insights.
