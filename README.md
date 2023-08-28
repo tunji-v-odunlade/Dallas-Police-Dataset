@@ -84,6 +84,6 @@ The geographical distribution of incidents is effectively brought to life throug
 
 ## Conclusion
 
-In summation, this analysis extracts nuanced insights from the 2016 Dallas police data. Officer demographics, subject characteristics, incident attributes, and intricate associations have been meticulously unearthed, providing a robust bedrock for informed decision-making. For a profound exploration of data preprocessing and exploratory stages, replete with illustrative code exemplars, kindly refer to the comprehensive analysis publication linked here: [Comprehensive Analysis](https://rpubs.com/vodunlade/1075296).
+In summation, this analysis extracts nuanced insights from the 2016 Dallas police data. Officer demographics, subject characteristics, incident attributes, and intricate associations have been meticulously unearthed, providing a robust bedrock for informed decision-making. For a profound exploration of data preprocessing and exploratory stages, kindly refer to the comprehensive analysis publication linked here: [Comprehensive Analysis](https://rpubs.com/vodunlade/1075296).
 
 Your inquiries and feedback are earnestly welcomed as we collectively endeavour to elevate the depth and breadth of the derived insights.
